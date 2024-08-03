@@ -81,8 +81,8 @@ NLS_933W.DLL (referred to as NLS) is a rootkit (or bootkit) residing in the firm
 
 <details>
 <summary>🌻 Click to Expand Tree</summary>
-`todo`
-### Files in `<TODO.zip>`
+
+ files will be listed here.
 
 </details>
 
