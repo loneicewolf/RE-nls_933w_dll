@@ -10,6 +10,28 @@ Yours sincerely,
 
 ---
 
+# ⚠️
+## Disclaimer
+
+This repository contains information and resources related to malware analysis, specifically the NLS_933W.DLL rootkit. The content provided here is intended solely for educational and research purposes. By accessing or using any part of this repository, you agree to the following terms:
+
+1. **Educational Use Only**: The materials in this repository are provided for the purpose of studying and understanding malware behavior and should not be used for any malicious or unauthorized activities.
+
+2. **No Responsibility**: The author(s) of this repository do not accept any responsibility or liability for any harm, loss, or damage caused by the use or misuse of the information, code, or tools provided here. This includes, but is not limited to, any direct, indirect, incidental, or consequential damages arising out of or in connection with the use or performance of this repository.
+
+3. **Use at Your Own Risk**: Any use of the information or resources in this repository is done at your own risk. It is your responsibility to ensure that you have adequate knowledge, tools, and precautions in place when working with malware.
+
+4. **Compliance with Laws**: It is your responsibility to ensure that your use of the information and resources in this repository complies with all applicable laws, regulations, and policies. Unauthorized use of this repository's contents may violate local, state, national, or international laws.
+
+5. **No Warranty**: The information, code, and tools in this repository are provided "as is" without any warranties of any kind, either express or implied. The author(s) make no representations or warranties regarding the accuracy, completeness, or suitability of the content provided.
+
+6. **Third-Party Links**: This repository may contain links to third-party websites or resources. These links are provided for convenience only, and the author(s) do not endorse or assume any responsibility for the content, products, or services provided by third parties.
+
+By continuing (scrolling, accessing, and/or using this repository), you acknowledge that you have read, understood, and agree to this disclaimer. If you do not agree to these terms, you should not use this repository or its contents and are advised not to continue. Please have a good day.
+
+---
+
+
 <sub>Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!</sub>
 
 ## Table of Contents
