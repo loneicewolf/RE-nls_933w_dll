@@ -1,6 +1,7 @@
+
 <div align="center">
 <h3>$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS - LEAVE}}$ </h3>
-This repository is dedicated to the theoretical research and analysis of the NLS Rootkit, also known as NLS_933W.DLL. For safety reasons, the actual malware samples are not included here. They can be found in my other repository focused on NLS_933_DLL. Additionally, for related research, you might want to check my Stuxnet repository.
+This repository is dedicated to the theoretical research and analysis of the NLS Rootkit, also known as NLS_933W.DLL. <b>For safety reasons, the actual malware samples are not included here.</b> They can be found in my other repository focused on NLS_933_DLL. Additionally, for related research, you might want to check my Stuxnet repository.
   
 Yours sincerely,
 
