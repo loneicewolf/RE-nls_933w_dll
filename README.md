@@ -109,16 +109,21 @@ NLS_933W.DLL (referred to as NLS) is a rootkit (or bootkit) residing in the firm
 
 </details>
 
+
 ---
 
 ## Acknowledgments
-- [ ] TODO
 
 <div align="center" style="color: #ff6341;">
-
-<br>
-Yours sincerely,<br>
-Will
+  
+  I  want to thank the **reverse engineers/Devs** of the **tools** that have been essential for my analysis, including:
+  <br><br>
+  <a href="https://github.com/hasherezade" style="color: #ff6341;"><b>Hasherezade</b></a> for their repositories, <a href="https://github.com/hasherezade/crypto_utils" style="color: #ff6341;"><b>crypto_utils</a>.
+  <br><br>
+  Your contributions have been instrumental in my research.
+  <br><br>
+  Yours sincerely,<br>
+  Will
 </div>
 
 ---
